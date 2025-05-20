@@ -1,3 +1,14 @@
+<h1 style="color: #ff5733;">Título Principal</h1>
+
+<h2 style="color: #33ff57;">Subtítulo 1</h2>
+
+<h3 style="color: #3357ff;">Sub-subtítulo 1.1</h3>
+
+<h2 style="color: #f033ff;">Subtítulo 2</h2>
+
+<h3 style="color: #33fff5;">Sub-subtítulo 2.1</h3>
+
+
 #***INFOTEC "Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación"***
 
 #**ANÁLISIS DE ALGORITMOS**
